@@ -1,0 +1,2 @@
+# Fintech
+polimi class
